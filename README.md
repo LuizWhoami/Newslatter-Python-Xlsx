@@ -1,4 +1,3 @@
-Ok, aqui está a tradução para o inglês:
 
 ```markdown
 # Email Sending and Data Manipulation Project
