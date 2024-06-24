@@ -2,9 +2,7 @@ import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 import requests
-from bs4 import BeautifulSoup
 import pandas as pd
-from time import sleep as time
 
 print('Bem vindo ao Tech-Loom')
 
